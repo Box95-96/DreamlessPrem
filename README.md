@@ -14,10 +14,10 @@ pip2 install requests
 
 pip2 install mechanize
 
-git clone https://github.com/BlackTiger-Error404/without.git
+git clone https://github.com/Box95-96/DreamlessPrem.git
 
-cd without
+cd Prem
 
-python2 Happy.py
+python2 Prem.py
 
 PAS:03037335114
